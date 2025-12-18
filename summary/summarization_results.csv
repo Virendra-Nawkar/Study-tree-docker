@@ -1,0 +1,9 @@
+Method,Summary,Compression (%),Readability Score,Info Retention (%),Execution Time (s)
+TF-IDF Extractive,"Global temperatures have risen by approximately 1.1 degrees Celsius since the pre-industrial era. The Paris Agreement, signed
+by nearly 200 countries, aims to limit global warming to well below 2 degrees Celsius. Individual actions, such as
+reducing energy consumption and supporting sustainable practices, also play a crucial role in addressing
+climate change.",71.43,28.71,30.7,0.002
+TextRank Extractive,"The primary cause of this warming is the emission of greenhouse gases, particularly carbon dioxide,
+from human activities such as burning fossil fuels and deforestation. Governments worldwide are working to implement
+policies to reduce emissions and transition to renewable energy sources. The transition to a low-carbon economy presents both challenges and opportunities,
+potentially creating millions of new jobs in renewable energy and green technology sectors.",64.29,15.94,35.96,0.004
